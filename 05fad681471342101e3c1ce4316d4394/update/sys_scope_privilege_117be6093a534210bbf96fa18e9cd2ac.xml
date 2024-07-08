@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope/>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-08 08:54:49</sys_created_on>
+        <sys_id>117be6093a534210bbf96fa18e9cd2ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ManyToManyChecker</sys_name>
+        <sys_package display_value="Safety" source="x_1403415_safety">05fad681471342101e3c1ce4316d4394</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">05fad681471342101e3c1ce4316d4394</sys_scope>
+        <sys_update_name>sys_scope_privilege_117be6093a534210bbf96fa18e9cd2ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-08 08:54:49</sys_updated_on>
+        <target_name>ManyToManyChecker</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_script_include</target_type>
+    </sys_scope_privilege>
+</record_update>

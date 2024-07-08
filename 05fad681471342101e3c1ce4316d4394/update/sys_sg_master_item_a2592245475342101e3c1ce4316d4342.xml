@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_1403415_safety_issue</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Issue Form Screen">6a592245475342101e3c1ce4316d433e</embedded_screen>
+        <item_view/>
+        <name>Issue Form Screen Master Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-08 08:45:34</sys_created_on>
+        <sys_id>a2592245475342101e3c1ce4316d4342</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Issue Form Screen Master Item</sys_name>
+        <sys_package display_value="Safety" source="x_1403415_safety">05fad681471342101e3c1ce4316d4394</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">05fad681471342101e3c1ce4316d4394</sys_scope>
+        <sys_update_name>sys_sg_master_item_a2592245475342101e3c1ce4316d4342</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-08 08:45:34</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Issue List Screen View Config">da59ee05475342101e3c1ce4316d43b2</view_config>
+    </sys_sg_master_item>
+</record_update>

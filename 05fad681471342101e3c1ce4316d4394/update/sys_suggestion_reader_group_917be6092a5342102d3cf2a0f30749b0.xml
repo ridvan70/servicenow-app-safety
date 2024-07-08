@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>true</click_in_mode>
+        <context_config_id display_value="Safety - Workspace Search">d17be60976534210da4e55912a974eac</context_config_id>
+        <limit>5</limit>
+        <order>100</order>
+        <section_header>Recent searches</section_header>
+        <suggestion_type>Recent Search Reader Group for Starter Workspace - Workspace Search</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-08 08:54:47</sys_created_on>
+        <sys_id>917be6092a5342102d3cf2a0f30749b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Recent Search Reader Group for Starter Workspace - Workspace Search</sys_name>
+        <sys_package display_value="Safety" source="x_1403415_safety">05fad681471342101e3c1ce4316d4394</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">05fad681471342101e3c1ce4316d4394</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_917be6092a5342102d3cf2a0f30749b0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-08 08:54:47</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>

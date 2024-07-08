@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_visibility">
+    <par_dashboard_visibility action="INSERT_OR_UPDATE">
+        <dashboard display_value="Safety">d57be60969534210bc299494240af8ae</dashboard>
+        <experience display_value="Safety">a57be609d35342104ef3c59fe7c5d9b5</experience>
+        <sys_class_name>par_dashboard_visibility</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-08 08:54:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1d7be609af534210045b23b754cf69ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Safety" source="x_1403415_safety">05fad681471342101e3c1ce4316d4394</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">05fad681471342101e3c1ce4316d4394</sys_scope>
+        <sys_update_name>par_dashboard_visibility_1d7be609af534210045b23b754cf69ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-08 08:54:47</sys_updated_on>
+    </par_dashboard_visibility>
+</record_update>

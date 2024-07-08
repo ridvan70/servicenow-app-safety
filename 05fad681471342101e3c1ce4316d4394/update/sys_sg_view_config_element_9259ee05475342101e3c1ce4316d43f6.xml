@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>short_decripton-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-08 08:45:34</sys_created_on>
+        <sys_id>9259ee05475342101e3c1ce4316d43f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>short_decripton-FieldValue</sys_name>
+        <sys_package display_value="Safety" source="x_1403415_safety">05fad681471342101e3c1ce4316d4394</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">05fad681471342101e3c1ce4316d4394</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_9259ee05475342101e3c1ce4316d43f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-08 08:45:34</sys_updated_on>
+        <view_config display_value="Issue Detail Screen View Config">d259ee05475342101e3c1ce4316d43ed</view_config>
+        <view_template_slot display_value="text_03">ef5ef07841e35010f877183fc9b8be34</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

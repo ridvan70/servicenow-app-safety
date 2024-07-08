@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-08 08:00:44</sys_created_on>
+        <sys_id>6d1f9ac5471342101e3c1ce4316d43e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1403415_safety_issue.x_1403415_safety.approver</sys_name>
+        <sys_package display_value="Safety" source="x_1403415_safety">05fad681471342101e3c1ce4316d4394</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">05fad681471342101e3c1ce4316d4394</sys_scope>
+        <sys_security_acl display_value="x_1403415_safety_issue">e11f9ac5471342101e3c1ce4316d43e0</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_6d1f9ac5471342101e3c1ce4316d43e2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-08 08:00:44</sys_updated_on>
+        <sys_user_role display_value="x_1403415_safety.approver" name="x_1403415_safety.approver">c1fad681471342101e3c1ce4316d439d</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

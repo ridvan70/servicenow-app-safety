@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Safety">9a59ee05475342101e3c1ce4316d43a1</applet_launcher>
+        <icon display_value="File">9e59ee05475342101e3c1ce4316d43a0</icon>
+        <label>Safety</label>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-08 08:45:33</sys_created_on>
+        <sys_id>da59ee05475342101e3c1ce4316d43af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Safety</sys_name>
+        <sys_package display_value="Safety" source="x_1403415_safety">05fad681471342101e3c1ce4316d4394</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">05fad681471342101e3c1ce4316d4394</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_da59ee05475342101e3c1ce4316d43af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-08 08:45:33</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

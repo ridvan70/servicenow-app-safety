@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="730f1ac5471342101e3c1ce4316d4387" label="Issue" max_length="40" name="x_1403415_safety_issue" text_index="true" type="collection">
+        <element label="Opened by" mandatory="true" max_length="32" name="opened_by" reference="sys_user" type="reference"/>
+        <element label="Category" max_length="40" name="category" type="string"/>
+        <element choice="1" label="Priority" max_length="40" name="priority" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Small" sequence="0" value="small"/>
+                <element inactive_on_update="false" label="Big" sequence="1" value="big"/>
+            </choice>
+        </element>
+        <element label="Short decripton" max_length="85" name="short_decripton" type="string"/>
+        <element choice="1" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Work in progress" sequence="1" value="work_in_progress"/>
+                <element inactive_on_update="false" label="Approval" sequence="2" value="approval"/>
+                <element inactive_on_update="false" label="New" sequence="0" value="new"/>
+                <element inactive_on_update="false" label="Complete" sequence="3" value="complete"/>
+            </choice>
+        </element>
+        <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Due date" max_length="40" name="due_date" type="glide_date"/>
+        <index name="index">
+            <element name="location"/>
+        </index>
+        <index name="index2">
+            <element name="opened_by"/>
+        </index>
+    </element>
+</database>
